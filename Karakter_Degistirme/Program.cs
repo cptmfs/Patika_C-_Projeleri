@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.Write("Please enter a text : ");
+        Console.Write("Lütfen metninizi giriniz : ");
         string input = Console.ReadLine();
 
         string[] words = input.Split(' ');
@@ -21,7 +21,7 @@ class Program
         }
 
         string output = string.Join(" ", newWords);
-        Console.WriteLine($"Yeni metin: {output}");
+        Console.WriteLine($"Sonuç : {output}");
         Console.ReadKey();  
     }
 
