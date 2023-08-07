@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daire_Cizme", "Daire_Cizme\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma", "Algoritma\Algoritma.csproj", "{1F4D0E30-FD57-48B6-AAC0-E63C34EFCB6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karakter_Tersten_Yazdırma", "Karakter_Tersten_Yazdırma\Karakter_Tersten_Yazdırma.csproj", "{AA1847D0-E127-4DEF-931E-43FBE2F7BB3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1F4D0E30-FD57-48B6-AAC0-E63C34EFCB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F4D0E30-FD57-48B6-AAC0-E63C34EFCB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F4D0E30-FD57-48B6-AAC0-E63C34EFCB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA1847D0-E127-4DEF-931E-43FBE2F7BB3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1847D0-E127-4DEF-931E-43FBE2F7BB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1847D0-E127-4DEF-931E-43FBE2F7BB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1847D0-E127-4DEF-931E-43FBE2F7BB3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
