@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alan_Hesaplama", "Alan_Hesa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integer_İkililerin_Toplamı", "Integer_İkililerin_Toplamı\Integer_İkililerin_Toplamı.csproj", "{5CE678F2-ED69-4589-9A1A-A4666FBB2391}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mutlak_Kare_Alma", "Mutlak_Kare_Alma\Mutlak_Kare_Alma.csproj", "{9677A363-2B1B-4C37-9363-9EEAB33394DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{5CE678F2-ED69-4589-9A1A-A4666FBB2391}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CE678F2-ED69-4589-9A1A-A4666FBB2391}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CE678F2-ED69-4589-9A1A-A4666FBB2391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9677A363-2B1B-4C37-9363-9EEAB33394DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9677A363-2B1B-4C37-9363-9EEAB33394DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9677A363-2B1B-4C37-9363-9EEAB33394DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9677A363-2B1B-4C37-9363-9EEAB33394DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
