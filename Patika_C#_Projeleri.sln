@@ -3,25 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ortalama_Hesaplama", "Ortalama_Hesaplama\Ortalama_Hesaplama.csproj", "{ADF6E519-2260-4EE0-AB66-2B747EA75D08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ortalama_Hesaplama", "Ortalama_Hesaplama\Ortalama_Hesaplama.csproj", "{ADF6E519-2260-4EE0-AB66-2B747EA75D08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ucgen_Cizme", "Ucgen_Cizme\Ucgen_Cizme.csproj", "{BE653772-069B-4E85-9472-568806E3DA91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ucgen_Cizme", "Ucgen_Cizme\Ucgen_Cizme.csproj", "{BE653772-069B-4E85-9472-568806E3DA91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daire_Cizme", "Daire_Cizme\Daire_Cizme.csproj", "{5BB1FBE1-BD42-4348-AB2C-7E2B430CDBB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Daire_Cizme", "Daire_Cizme\Daire_Cizme.csproj", "{5BB1FBE1-BD42-4348-AB2C-7E2B430CDBB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma", "Algoritma\Algoritma.csproj", "{1F4D0E30-FD57-48B6-AAC0-E63C34EFCB6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritma", "Algoritma\Algoritma.csproj", "{1F4D0E30-FD57-48B6-AAC0-E63C34EFCB6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karakter_Tersten_Yazdırma", "Karakter_Tersten_Yazdırma\Karakter_Tersten_Yazdırma.csproj", "{AA1847D0-E127-4DEF-931E-43FBE2F7BB3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Karakter_Tersten_Yazdırma", "Karakter_Tersten_Yazdırma\Karakter_Tersten_Yazdırma.csproj", "{AA1847D0-E127-4DEF-931E-43FBE2F7BB3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alan_Hesaplama", "Alan_Hesaplama\Alan_Hesaplama.csproj", "{BB6E1D7E-ABF8-4953-BD58-675CB0D09EBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alan_Hesaplama", "Alan_Hesaplama\Alan_Hesaplama.csproj", "{BB6E1D7E-ABF8-4953-BD58-675CB0D09EBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integer_İkililerin_Toplamı", "Integer_İkililerin_Toplamı\Integer_İkililerin_Toplamı.csproj", "{5CE678F2-ED69-4589-9A1A-A4666FBB2391}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integer_İkililerin_Toplamı", "Integer_İkililerin_Toplamı\Integer_İkililerin_Toplamı.csproj", "{5CE678F2-ED69-4589-9A1A-A4666FBB2391}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mutlak_Kare_Alma", "Mutlak_Kare_Alma\Mutlak_Kare_Alma.csproj", "{9677A363-2B1B-4C37-9363-9EEAB33394DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mutlak_Kare_Alma", "Mutlak_Kare_Alma\Mutlak_Kare_Alma.csproj", "{9677A363-2B1B-4C37-9363-9EEAB33394DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karakter_Degistirme", "Karakter_Degistirme\Karakter_Degistirme.csproj", "{64209006-9731-44BF-976A-BDE6575F7781}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Karakter_Degistirme", "Karakter_Degistirme\Karakter_Degistirme.csproj", "{64209006-9731-44BF-976A-BDE6575F7781}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sessiz_Harf", "Sessiz_Harf\Sessiz_Harf.csproj", "{40B4637E-FA16-4B1F-B55F-0A799D3AA31E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sessiz_Harf", "Sessiz_Harf\Sessiz_Harf.csproj", "{40B4637E-FA16-4B1F-B55F-0A799D3AA31E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voting", "Voting\Voting.csproj", "{8C6607A6-0928-4C57-9044-61D688EBE635}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{40B4637E-FA16-4B1F-B55F-0A799D3AA31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40B4637E-FA16-4B1F-B55F-0A799D3AA31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40B4637E-FA16-4B1F-B55F-0A799D3AA31E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6607A6-0928-4C57-9044-61D688EBE635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6607A6-0928-4C57-9044-61D688EBE635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6607A6-0928-4C57-9044-61D688EBE635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6607A6-0928-4C57-9044-61D688EBE635}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
