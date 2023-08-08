@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voting", "Voting\Voting.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankManagement", "BankManagement\BankManagement.csproj", "{3A9345CE-C8B7-480C-AD99-99D2706A0E38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QR_Code_Generator", "QR_Code_Generator\QR_Code_Generator.csproj", "{54DB1DF4-D9ED-437C-96F5-B1C68806D3AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{3A9345CE-C8B7-480C-AD99-99D2706A0E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A9345CE-C8B7-480C-AD99-99D2706A0E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A9345CE-C8B7-480C-AD99-99D2706A0E38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54DB1DF4-D9ED-437C-96F5-B1C68806D3AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DB1DF4-D9ED-437C-96F5-B1C68806D3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DB1DF4-D9ED-437C-96F5-B1C68806D3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DB1DF4-D9ED-437C-96F5-B1C68806D3AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
